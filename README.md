@@ -1,2 +1,2 @@
 # sexy-typography
-achieving text that leaves a mark
+Achieving text that leaves a mark
